@@ -8,7 +8,7 @@ Several constraints were placed on the selection of these instances from a large
 Pima Indian heritage
 
 Project 2: Song popularity prediction (Supervised Classification) - 
-Predict the popularity of a song given features like acousticness, danceability, key, loudness, etc.
+Predict the popularity of a song given features like acousticness, danceability, key, loudness, etc. Random Forest, XGBoost and KNN model were used.
 
 
 Project 3: Income Qualification (Supervised Classification) - 
