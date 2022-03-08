@@ -18,7 +18,7 @@ Project 5: RFM model based customer clustering (Unsupervised) -
 Perform customer segmentation using RFM analysis. The resulting segments can be ordered from most valuable (highest recency, frequency, and value) 
 to least valuable (lowest recency, frequency, and value). Identifying the most valuable RFM segments can capitalize on chance relationships in the data used for this analysis
 
-Project 6: Predicting Gold Price using several Machine Learning techniques
+Project 6: Predicting Gold Price using several Machine Learning techniques (Time Series) like Facebook Prophet
 
 Project 7: Income Qualification (Supervised Classification) - 
 Identify the level of income qualification needed for the families in Latin America. The Inter-American Development Bank (IDB) believes that 
